@@ -14,8 +14,8 @@ setup(name='collective.js.formvalidation',
         "Programming Language :: Python",
         ],
       keywords='',
-      author='',
-      author_email='',
+      author='Timo Stollenwerk',
+      author_email='contact@timostollenwerk.net',
       url='http://svn.plone.org/svn/collective/',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
@@ -24,7 +24,6 @@ setup(name='collective.js.formvalidation',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          # -*- Extra requirements: -*-
       ],
       entry_points="""
       # -*- Entry points: -*-

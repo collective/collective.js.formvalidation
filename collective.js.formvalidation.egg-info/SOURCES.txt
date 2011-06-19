@@ -11,4 +11,8 @@ collective.js.formvalidation.egg-info/requires.txt
 collective.js.formvalidation.egg-info/top_level.txt
 collective/js/__init__.py
 collective/js/formvalidation/__init__.py
+collective/js/formvalidation/interfaces.py
 collective/js/formvalidation/tests.py
+collective/js/formvalidation/browser/__init__.py
+collective/js/formvalidation/example/__init__.py
+collective/js/formvalidation/example/form.py

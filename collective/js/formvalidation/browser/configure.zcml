@@ -1,0 +1,15 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:zcml="http://namespaces.zope.org/zcml"
+    i18n_domain="collective.js.formvalidation">
+
+  <!-- Resource directory for javascripts -->
+  <browser:resourceDirectory
+    name="collective.js.formvalidation.javascripts"
+    directory="javascripts"
+    layer="..interfaces.IFormValidationLayer"
+    />
+
+</configure>
+
