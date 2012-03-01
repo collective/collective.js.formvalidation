@@ -1,11 +1,15 @@
 Changelog
 =========
 
-1.0b1 (unreleased)
+1.0b1 (2012-02-01)
 ------------------
+
+- Upgrade to jQuery validation 1.9.0.
+  [timo]
 
 
 1.0a1 (2011-06-20)
 ------------------
 
 - Initial release
+  [timo]
